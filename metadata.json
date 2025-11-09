@@ -1,0 +1,5 @@
+{
+  "name": "ArtVibe",
+  "description": "An AI-powered application to generate custom art for your environment. Upload a photo of your space, edit existing images, or create art from scratch using text prompts.",
+  "requestFramePermissions": []
+}
